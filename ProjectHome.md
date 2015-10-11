@@ -1,0 +1,5 @@
+The Java API for the Object Management Group's ([OMG](http://www.omg.org)) Data Distribution Service for Real-Time Systems ([DDS](http://www.omg.org/spec/DDS/1.2/)) specification is currently based on OMG IDL. This API is not as portable or performant as it might be, and it doesn't follow Java conventions for naming or exception handling. Therefore, a group of DDS vendors and users are working together to develop improved Java-specific APIs.
+
+**Update**: This open-source project is now the basis for that proposed OMG specification. OMG member organizations can download this proposal from http://www.omg.org/techprocess/meetings/schedule/Java_5_Language_PSM_for_DDS_RFP.html. For those who are not OMG members, the PDF is also available [here](http://code.google.com/p/datadistrib4j/source/browse/trunk/specification/dds_java_psm_submission.pdf).
+
+A similar project is underway for C++: see http://code.google.com/p/datadistrib4cpp/.
